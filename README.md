@@ -1,7 +1,7 @@
 # MLOps-Final-Project
 This repo contains the code for the final project in mlops-course.
 <br>
-You can read more in the `Project Charter.pdf`
+You can read more in the `Project Charter.pdf` or in the `Final Presentation.pdf`
 
 ## How to run?
 There are 2 ways to run the project:
